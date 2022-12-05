@@ -34,5 +34,3 @@ https://www.kaggle.com/nasa/meteorite-landings
 ## Softwares Required -
 - Jupyter Notebook
 - Python
-
-## Author - [Abhinav Dubey](https://github.com/abhinav-bhardwaj)
